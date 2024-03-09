@@ -2,4 +2,4 @@ Summer Of Bitcoin - (https://www.summerofbitcoin.org/) [open - January, closed -
 <br/>
 Google Summer Of Code - (https://summerofcode.withgoogle.com/) [Wed, 1 May, 2024 – Thu, 14 Nov, 2024]
 <br/>
-Hactoberfest - (https://hacktoberfest.com/)  - october month opensource
+Hactoberfest - (https://hacktoberfest.com/)  - october month opensource - more contribution in 1 month if accepted get many tshirts.
