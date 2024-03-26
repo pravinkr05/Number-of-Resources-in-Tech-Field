@@ -10,3 +10,7 @@ devika
 
 openSora
 
+Bard
+
+Copilot
+
