@@ -1,7 +1,7 @@
 # Number-of-Resources-in-Tech-Field
 # Essential Resources for Software Engineering Students
 
-Welcome to the Essential Resources for Software Engineering Students project! This is an open-source repository aimed at compiling a comprehensive list of resources and tools that every software engineering student should have access to. Whether you're just starting out or looking to expand your skills, this repository is here to help.
+Welcome ✋ to the Essential Resources for Software Engineering Students project! This is an open-source repository aimed at compiling a comprehensive list of resources and tools that every software engineering student should have access to. Whether you're just starting out or looking to expand your skills, this repository is here to help.
 
 
 ## How to Contribute
