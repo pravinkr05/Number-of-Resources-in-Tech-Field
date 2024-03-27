@@ -1,17 +1,17 @@
-Chatgpt
+Chatgpt - text to text (question - answer) https://chat.openai.com/
 
-Perplexity
+Perplexity - text to image converter https://www.perplexity.ai/
 
-Krutrim 
+Krutrim - similar to chatgpt in indian languages https://chat.olakrutrim.com/home
 
 devin - https://www.cognition-labs.com/introducing-devin
 
-devika
+devika - act as a software engineer AI.
 
-openSora
+openSora - text to short video converter https://openai.com/sora
 
-Bard
+Bard(Gemini) - similar to chatgpt https://gemini.google.com/app
 
-Copilot
+Copilot - similar to chatgpt
 
 autodev
