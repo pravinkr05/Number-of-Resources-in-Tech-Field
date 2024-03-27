@@ -12,6 +12,6 @@ openSora - text to short video converter https://openai.com/sora
 
 Bard(Gemini) - similar to chatgpt https://gemini.google.com/app
 
-Copilot - similar to chatgpt
+Copilot - similar to chatgpt https://copilot.microsoft.com/
 
 autodev
