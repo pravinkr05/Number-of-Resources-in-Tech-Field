@@ -9,6 +9,7 @@ devin - https://www.cognition-labs.com/introducing-devin
 devika - act as a software engineer AI.
 
 openSora - text to short video converter https://openai.com/sora
+it is free try it
 
 Bard(Gemini) - similar to chatgpt https://gemini.google.com/app
 
