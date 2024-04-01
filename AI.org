@@ -15,3 +15,7 @@ Bard(Gemini) - similar to chatgpt https://gemini.google.com/app
 Copilot - similar to chatgpt https://copilot.microsoft.com/
 
 autodev
+
+GitHub copilot
+
+code llama https://ai.meta.com/blog/code-llama-large-language-model-coding/
