@@ -1,8 +1,10 @@
-# Contributing Guidelines
+
+
+# Contributing Guidelines 🚀
 
 Thank you for considering contributing to this repository! Before you start, please review the guidelines below.
 
-## Getting Started
+## Getting Started 🎉
 
 To contribute to this repository, you'll need to follow these steps:
 
@@ -26,9 +28,9 @@ To contribute to this repository, you'll need to follow these steps:
     git checkout -b feature/add-new-tool
     ```
 
-## Adding Contributions
+## Adding Contributions 🛠️
 
-### Folder Structure
+### Folder Structure 📂
 
 The repository is organized into different folders representing different categories or tools. Please follow the folder structure when adding contributions:
 
@@ -84,11 +86,11 @@ The repository is organized into different folders representing different catego
    - Point 3
 
 
-## Reviewing Contributions
+## Reviewing Contributions 🔍
 
 Before submitting a pull request, please ensure that your contribution follows the guidelines outlined above. Review your contribution for accuracy, completeness, and adherence to the folder structure.
 
-## Submitting Your Contribution
+## Submitting Your Contribution 📥
 
 Once you have finished adding your contribution, follow these steps to submit a pull request:
 
@@ -107,6 +109,7 @@ Once you have finished adding your contribution, follow these steps to submit a 
 
 3. **Submit a Pull Request**: Visit the GitHub page for your forked repository and click the "New pull request" button. Provide a descriptive title and detailed description for your pull request, then click "Create pull request" to submit it for review.
 
-## Thank You!
+## Thank You! 🙏
 
 Thank you for contributing to this repository and helping improve it for everyone! Your contributions are greatly appreciated.
+
