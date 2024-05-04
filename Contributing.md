@@ -1,6 +1,6 @@
 
 
-# Contributing Guidelines 🚀
+#  `Contributing Guidelines` 🚀
 
 Thank you for considering contributing to this repository! Before you start, please review the guidelines below.
 
