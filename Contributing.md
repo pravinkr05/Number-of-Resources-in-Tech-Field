@@ -59,7 +59,7 @@ The repository is organized into different folders representing different catego
    - Point 3
    
 ## Example -
-## ChatGPT
+#### ChatGPT
 
 1. **What is ChatGPT?**
    [Description of ChatGPT...]
