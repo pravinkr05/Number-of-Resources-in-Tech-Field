@@ -32,34 +32,26 @@ To contribute to this repository, you'll need to follow these steps:
 
 The repository is organized into different folders representing different categories or tools. Please follow the folder structure when adding contributions:
 
-AI/
-ChatGPT/
-README.md
-Other files...
-OpenSorA/
-README.md
-Other files...
-EnglishTool/
-ToolName1/
-README.md
-Other files...
-ToolName2/
-README.md
-Other files...
-markdown
-Copy code
+* Technology
+    * Tool1
+    * Tool2
+ 
+* AI
+    * ChatGPT
+    * OpenSorA
+    
 
 ### Adding Contributions to Tools Folder
 
-#### ToolName
+#### Tool1
 
-1. **What is ToolName?**
+1. **What is Tool1?**
    [Description of ToolName...]
 
-2. **Why Use ToolName?**
+2. **Why We Use Tool1?**
    [Reasons for using ToolName...]
 
-3. **Important Points to Consider foor using effectively**
+3. **Important Points to Consider for using effectively**
    - Point 1
    - Point 2
    - Point 3
@@ -74,9 +66,9 @@ Copy code
    [Reasons for using ChatGPT...]
 
 3. **Points to Consider**
-   - Point 1
-   - Point 2
-   - Point 3
+   - ChatGPT not giving accurate answer so never completely depends on chatGPT.
+   - ChatGPT is just as a mentor who can guide you. for ex- you can ask how to solve this coding question - they can give you answer may be accurate or just near the solution.
+   - This can give result upto 2022 result. asking about current news about new things then they will not provide answer.
 
 #### OpenSorA
 
